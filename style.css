@@ -1,0 +1,116 @@
+#body2 {
+    background-image: url("zero.jpg");
+    background-size: cover;
+}
+
+h1 {
+    font-weight: bolder;
+    font-style: italic;
+    margin-left: 550px;
+    margin-top: 170px;
+    color: rgb(28, 13, 243);
+}
+
+#player1 {
+    font-size: 20px;
+    border-radius: 5px;
+    margin-left: 550px;
+    ;
+}
+
+#player2 {
+    font-size: 20px;
+    border-radius: 5px;
+    margin-left: 550px;
+    ;
+}
+
+#btnLogin {
+    margin-left: 550px;
+}
+
+.btns {
+    text-decoration-line: underline;
+    font-family: "algerian";
+    font-style: italic;
+    font-weight: 900;
+    font-size: 25px;
+    margin-top: 30px;
+    color: red;
+    background-color: transparent;
+    border-color: transparent;
+}
+
+#home {
+    margin-left: 80%;
+}
+
+#aboutBtn {
+    padding-left: 15px;
+}
+
+#body3 {
+    background-image: url("one.jpg");
+    background-size: cover;
+}
+
+#player1nm {
+    color: aliceblue;
+}
+
+#player2nm {
+    color: aliceblue;
+}
+
+#heading {
+    font-size: 60px;
+    color: aliceblue;
+    margin-right: 20px;
+    margin-left: -5px;
+    margin-top: 125px;
+    margin-bottom: -200;
+}
+
+#turners {
+    font-size: 40px;
+    color: aqua;
+}
+
+#answername {
+    color: rgb(76, 0, 255);
+}
+
+#ansIn {
+    color: grey;
+}
+
+#output {
+    background-color: aliceblue;
+    text-align: left;
+    padding-left: 20px;
+    margin-left: 375px;
+    margin-right: 375px;
+    padding-top: 20px;
+    padding-right: 25%;
+    border-radius: 10px;
+    padding-bottom: 20px;
+    margin: 10px dashed rgb(250, 4, 4)
+}
+
+#question {
+    font-size: 20px;
+}
+
+#nn1,
+#nn2 {
+    color: chartreuse;
+}
+
+#n1,
+#n2 {
+    color: grey;
+}
+#score1{
+    color: aliceblue;
+    background-color: black;
+}
